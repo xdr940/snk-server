@@ -1,0 +1,3 @@
+[submodule "snk-analyzer"]
+	path = snk-analyzer
+	url = https://github.com/xdr940/snk-analyzer.git
